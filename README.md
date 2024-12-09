@@ -1,4 +1,4 @@
-## Chess Game with Timer - Readme
+## Chess! - Readme
 
 This is a Python script for a basic chess game with a timer functionality using the Tkinter library and the chess library.
 
@@ -20,17 +20,17 @@ This is a Python script for a basic chess game with a timer functionality using 
 
 **Running the Game:**
 
-1. Save the script as `chess_app.py`.
+1. Save the script as `chess!.py`. (As chess is name of one of python libraries too.)
 2. Open a terminal or command prompt and navigate to the directory where you saved the script.
 3. Run the script using the following command:
 
 ```
-python chess_app.py
+python chess!.py
 ```
 
 **Gameplay:**
 
-1. The game starts with a welcome screen where you can enter player names and a timer limit (in minutes).
+1. The game starts with a welcome screen where you can enter player names and a timer limit(Optional as default names are player 1 and 2 and time is 5 min).
 2. Click the "Start Game" button to begin the game.
 3. The board will be displayed, with the current player's turn indicated.
 4. Click on a piece to select it.
