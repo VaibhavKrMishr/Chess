@@ -44,3 +44,6 @@ python chess!.py
 
 * This is a basic implementation and lacks features like castling, en passant, and advanced AI opponents.
 * The code is well-commented and structured for readability.
+* There is no model for chess pieces instered they have names like BK(Black Knight),WQ(White Queen) etc.
+
+I Hope You Enjoy It.
